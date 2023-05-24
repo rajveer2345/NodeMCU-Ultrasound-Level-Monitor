@@ -9,7 +9,7 @@ This project uses a NodeMCU ESP8266 board and an ultrasonic sensor to measure th
 * Computer with Arduino IDE installed
 * Computer with an Internet Connection
 * A Plastic container
-**********************************************************
+* Alexa Skill (optional)
 
 
 
